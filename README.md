@@ -3,7 +3,7 @@
 ## NIM  : 312310365
 ## kelas :TI 23 A.4
 
-*Tampilan awal masukan nama player* :
+## Tampilan awal masukan nama player* :
 ![iPhone 16 - 1](https://github.com/user-attachments/assets/6626e235-494d-4b28-a158-8d69d986ce0c)
 
 *Tampilan papan untuk memulai permainan*
